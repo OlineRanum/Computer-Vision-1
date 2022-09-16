@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.exr
+*.LOG
+*.info
+*.pgm
+*.DS_Store
+/lab1/images/
+/lab1/.ipynb_checkpoints/
