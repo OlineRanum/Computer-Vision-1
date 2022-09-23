@@ -5,5 +5,8 @@
 *.info
 *.pgm
 *.DS_Store
+*.gz
+*.yaml
+*.yml
 /lab1/images/
-/lab1/.ipynb_checkpoints/
+*.ipynb_checkpoints/
